@@ -3,7 +3,7 @@
 export default function Home() {
   return (
     <div id="webcrumbs"> 
-    	<div className="w-[400px] min-h-[800px] bg-center bg-cover bg-no-repeat text-center rounded-lg shadow-lg" style={{backgroundImage: 'url(https://cdn.webcrumbs.org/assets/images/ask-ai/bgs/27.svg)'}}>
+    	<div className="w-[400px] min-h-[800px] bg-center bg-cover bg-no-repeat text-center rounded-lg shadow-lg" style={{backgroundImage: 'url()'}}>
     	  <img src="breathwork-ai\public\images\logo.png" alt="Logo" className="mx-auto mt-6 mb-4" />
     	  <h1 className="text-2xl font-title mb-3">Personalized Breathwork</h1>
     	  <p className="text-sm mb-8">
